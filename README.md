@@ -29,11 +29,11 @@ This project is a real-time data processing system that monitors weather conditi
    git clone https://github.com/alahari13/weather-conditions.git
 2. **Navigate to the project directory:**
 cd weather-conditions
-3.**Create a virtual environment (optional but recommended):**
+3. **Create a virtual environment (optional but recommended):**
 python -m venv weather-env
-4.**Activate the virtual environment:**
+4. **Activate the virtual environment:**
 weather-env\Scripts\activate
-5.**Install the required packages:**
+5. **Install the required packages:**
 pip install requests schedule matplotlib
 ## Usage
 **Run the main application:**
